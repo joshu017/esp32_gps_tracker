@@ -1,5 +1,5 @@
 # esp32_gps_tracker
-A GPS tracker and environmental sensor data logger for esp32, released under the MIT License.
+A GPS tracker and environmental sensor data logger for ESP32, released under the MIT License.
 
 # Hardware Bill of Materials (with example sources):
 - Lolin32 dev board clone
@@ -16,7 +16,7 @@ A GPS tracker and environmental sensor data logger for esp32, released under the
 # Software Library Dependencies (install and manage via Arduino library manager)
 - AHT20 by dvarrel https://github.com/dvarrel/AHT20
 - BMP280 by dvarrel https://github.com/dvarrel/BMP280
-- TinyGPSPlus by Mikal Hart https://github.com/TinyuZhao/TinyGPSPlus-ESP32
+- TinyGPSPlus by Mikal Hart (ESP32 fork) https://github.com/TinyuZhao/TinyGPSPlus-ESP32
 
 # Todo list:
 - Add support for the LORA module DX-LR02
