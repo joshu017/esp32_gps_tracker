@@ -13,7 +13,7 @@ A GPS tracker and environmental sensor data logger for ESP32, released under the
 - DX-LR02 LORA module (serial)
   - https://www.amazon.com/LR02-Development-868-915Mhz-Set/dp/B0DS1TJ9W5
 
-# Software Library Dependencies (install and manage via Arduino library manager)
+# Library Dependencies (via Arduino library manager):
 - AHT20 by dvarrel https://github.com/dvarrel/AHT20
 - BMP280 by dvarrel https://github.com/dvarrel/BMP280
 - TinyGPSPlus by Mikal Hart (ESP32 fork) https://github.com/TinyuZhao/TinyGPSPlus-ESP32
